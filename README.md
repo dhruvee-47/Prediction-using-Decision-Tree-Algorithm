@@ -1,4 +1,4 @@
-# Task 6 - Decision Tree Algorithm for Prediction
+# Decision Tree Algorithm for Prediction
 
 This repository provides a theoretical overview of the decision tree algorithm for prediction. It aims to explain the concepts, principles, and steps involved in using decision trees for making predictions. Please note that this repository does not contain any code implementations, but rather focuses on the theoretical aspects of the algorithm.
 
